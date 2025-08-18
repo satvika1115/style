@@ -1,0 +1,41 @@
+body {
+    background-color: pink;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+
+
+}
+h1:hover{
+    background-color: blue;
+    color: white;
+
+}
+p{
+    border: 20px ridge black;
+
+    
+    
+    height: 50%;
+    width: 50%;
+    background-color: yellow;
+    
+
+}
+
+
+
+.bio {
+    background-color: maroon;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+
+
+}
+#contact {
+    color:aquamarine;
+
+    font-weight: bold;
+    font-size: 50px;
+}
