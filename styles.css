@@ -1,28 +1,24 @@
-body {
-    background-color: pink;
-    color: black;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 16px;
+p {
+    position: relative;
+    left: 150px;
+    right: 100px;
+    bottom: -100px;
 
-
-}
-h1{
-    background-color: blue;
-}
-
-
-.bio {
-    background-color: maroon;
-    color: white;
-    font-weight: bold;
-    font-size: 50px;
 
 
 }
-#contact {
+h2{
+    position:fixed;
+}
+div {
+    background-color: lightblue;
+}
+#abc {
+    position:relative;
+    left: 100px;
+}
+#abc h1 {
     background-color: green;
-    color:aquamarine;
-
-    font-weight: bold;
-    font-size: 50px;
+    position: absolute;
+    left: 200px;
 }
